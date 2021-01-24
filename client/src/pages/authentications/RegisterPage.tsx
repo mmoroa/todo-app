@@ -17,7 +17,7 @@ const RegisterPage: React.FC = () => {
                     }}
                 >
                     <div style={{ position: 'absolute', bottom: 20, left: 24 }}>
-                        <Text className="text-black">{`© ${new Date().getFullYear()} RCS`}</Text>
+                        <Text className="text-black">{`© ${new Date().getFullYear()}`}</Text>
                     </div>
                 </div>
             </Col>
